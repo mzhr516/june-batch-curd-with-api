@@ -8,45 +8,15 @@
     },
     {
       "id": 2,
-      "name": "mark cena",
-      "city": "mumbai",
-      "age": 35
-    },
-    {
-      "id": 3,
-      "name": "brett lee",
-      "city": "delhi",
-      "age": 15
-    },
-    {
-      "name": "mazhar",
-      "age": "25",
-      "city": "kolkata",
-      "id": 5
-    },
-    {
-      "name": "roman",
-      "age": "22",
-      "city": "pune",
-      "id": 4
-    },
-    {
-      "name": "ahmed",
-      "age": "50",
-      "city": "nanded",
-      "id": "04bafcc0-1d50-445c-8551-06c1bde99ba8"
-    },
-    {
-      "name": "uzer",
-      "age": "40",
-      "city": "hyderabad",
-      "id": "1d489b14-910c-43af-aa7d-ba6b88808016"
-    },
-    {
-      "name": "umair",
-      "age": "30",
+      "name": "john cena",
       "city": "banglore",
-      "id": "799b1f96-6d8c-4be5-80c7-aaaf4ee51dc4"
+      "age": "50"
+    },
+    {
+      "name": "noman uddin",
+      "age": "20",
+      "city": "hyderabad",
+      "id": "a54e05a9-c2fe-4e77-a1c4-4e7c270c2883"
     }
   ]
 }
